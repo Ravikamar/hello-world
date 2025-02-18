@@ -42,4 +42,5 @@ def main():
             print("Cell already taken, try again.")
 
 if __name__ == "__main__":
+    print("Game is staring now !")
     main()
