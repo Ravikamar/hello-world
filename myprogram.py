@@ -42,5 +42,6 @@ def main():
             print("Cell already taken, try again.")
 
 if __name__ == "__main__":
-    print("Game is staring now !")
+    print("Welcome to Tic Tac Toe!")
+    print("Player 1 is X and Player 2 is O")
     main()
